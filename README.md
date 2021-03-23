@@ -45,3 +45,11 @@ Communities of practice that support diversity, inclusivity, equity, and justice
 - [Tech Ladies](https://www.hiretechladies.com/partners/)
 - [Inclusive Boards](https://www.inclusiveboards.co.uk)
 - [Coding Black Females' board](https://jobs.codingblackfemales.com)
+
+#### How to contribute
+
+Feel free to suggest new organisations, sections, etc.
+
+1. Raise a GitHub issue
+2. Describe the proposed change (including community name and URL)
+3. Submit the issue
