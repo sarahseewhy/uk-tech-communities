@@ -1,7 +1,7 @@
 # uk-tech-communities
 Communities of practice that support diversity, inclusivity, equity, and justice in the tech industry
 
-#### Communities
+### Communities
 - [UKBlackTech](https://ukblacktech.com/)
 - [AfroTech Fest](https://www.afrotechfest.co.uk/)
 - [Coding Black Females](https://codingblackfemales.com/)
@@ -26,18 +26,18 @@ Communities of practice that support diversity, inclusivity, equity, and justice
 - [Codebar Lonodn](https://codebar.io/london)
 - [Women in DevOps](https://www.womenindevops.com)
 
-#### Folks to know
+### Folks to know
 - [9 Black women in data science you should know](https://builtin.com/data-science/black-women-data-science)
 - [The 50 most inspiring, prominent, and influential Black voices in UK tech](https://technation.io/news/50-inspiring-black-voices-uk-tech-scene/)
 - [10 Inspirational Black British Women Who Code](https://peopleofcolorintech.com/articles/10-inspirational-black-british-women-who-code/)
 
-#### Communities on Twitter
+### Communities on Twitter
 - [Melanin.Tech](https://twitter.com/MelaninTech)
 - [Women in Tech Caribbean Community](https://twitter.com/WomenCaribbean)
 - [Coders of Color](https://twitter.com/CodersofColor_)
 - [Asians in Tech](https://twitter.com/asiansintech)
 
-#### Job boards to post on
+### Job boards to post on
 - [A New Direction](https://anewdirection.org.uk/what-we-do/employability-programme)
 - [People of Colour in Tech (POCIT)](https://www.pocitjobs.com)
 - [Blacks in Technology](https://www.blacksintechnology.net/jobs-board/)
